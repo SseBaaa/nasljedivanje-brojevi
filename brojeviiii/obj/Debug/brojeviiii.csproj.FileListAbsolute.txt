@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\brojeviiii\brojeviiii\bin\Debug\brojeviiii.exe.config
+C:\Users\ucenik\source\repos\brojeviiii\brojeviiii\bin\Debug\brojeviiii.exe
+C:\Users\ucenik\source\repos\brojeviiii\brojeviiii\bin\Debug\brojeviiii.pdb
+C:\Users\ucenik\source\repos\brojeviiii\brojeviiii\obj\Debug\brojeviiii.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\brojeviiii\brojeviiii\obj\Debug\brojeviiii.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\brojeviiii\brojeviiii\obj\Debug\brojeviiii.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\brojeviiii\brojeviiii\obj\Debug\brojeviiii.exe
+C:\Users\ucenik\source\repos\brojeviiii\brojeviiii\obj\Debug\brojeviiii.pdb
